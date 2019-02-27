@@ -17,4 +17,6 @@ In this project, I have deployed the below steps.
       
       e. SVM
       
+      f. Naive Bayes
+      
  4. Balanced the dataset using SMOTE and applied Logistic Regression.
